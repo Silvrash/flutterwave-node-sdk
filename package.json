@@ -1,0 +1,23 @@
+{
+  "name": "flutterwave-node-sdk",
+  "version": "1.0.0",
+  "description": "Nodejs sdk for flutterwave for flutterwave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvrash/flutterwave-node-sdk.git"
+  },
+  "keywords": [
+    "flutterwave",
+    "sdk"
+  ],
+  "author": "Benjamin Arko Afrasah (barkoafrasah@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Silvrash/flutterwave-node-sdk/issues"
+  },
+  "homepage": "https://github.com/Silvrash/flutterwave-node-sdk#readme"
+}
